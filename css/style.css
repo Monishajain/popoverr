@@ -1,0 +1,12 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 55rem;
+  padding-top: 4.5rem;
+}
+
+.form-control {
+  width: 120px;
+}
+.popover {
+  max-width: 400px;
+}
